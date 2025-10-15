@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Dileep Choudhary
 **🔭 I’m currently working on Express Your Thoughts
 **⚡ Fun fact: ...I am fluent in Russian language
-https://github.com/dileep53matrix/dileep53matrix/blob/main/icons/activity.gi<!--
-**dileep53matrix/dileep53matrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 align="center">Hi <img src="https://github.com/dileep53matrix/dileep53matrix/blob/main/icons/Hi.gif" width="28px"/>, I'm [Dileep]</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[dileep53matrix]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
