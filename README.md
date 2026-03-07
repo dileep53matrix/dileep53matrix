@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Hello, I’m Dileep. I’m an engineering student Living in Bangalore India , Originally from Tonk Rajasthan. My hobbies are traveling, writing Diaries and watching movies and World Politics. I’m also interested in Reserch and cricket.<br><br>Currently I am working as a CEO at<br><br>1. Sports Association of Tonk<br><br>2. Express Your Thoughts<br><br>Website -<br><br>www.expressyourthoughts.live<br><br>As a Web Developer working at<br><br>1.Naviguide France based on New Caledonia<br><br>Website - www.naviguide.fr<br><br>Technical Languages-Python , Java, C, Javascript, css,html<br><br>Fronted Web Developer<br><br>Information Technology||VTU Bangalore||First Year Student<br><br>Contact me -dileepchoudhary1008@gmail.com
 
 
